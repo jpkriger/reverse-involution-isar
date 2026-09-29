@@ -1,0 +1,16 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# LaTeX source is kept locally, outside the public repository
+t1_provas.tex
+
+# Course material, not mine to redistribute
+t1_2026_2.pdf
+
+# Delivery package
+*.zip
